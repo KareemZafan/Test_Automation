@@ -1,0 +1,258 @@
+[INFO  - 2021-05-02T20:47:19.762Z] GhostDriver - Main - running on port 26377
+[INFO  - 2021-05-02T20:47:20.434Z] Session [96d1ab30-ab87-11eb-899c-f500e427cbc0] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2021-05-02T20:47:20.435Z] Session [96d1ab30-ab87-11eb-899c-f500e427cbc0] - page.customHeaders:  - {}
+[INFO  - 2021-05-02T20:47:20.438Z] Session [96d1ab30-ab87-11eb-899c-f500e427cbc0] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2021-05-02T20:47:20.439Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 96d1ab30-ab87-11eb-899c-f500e427cbc0
+[ERROR - 2021-05-02T20:47:23.410Z] Session [96d1ab30-ab87-11eb-899c-f500e427cbc0] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("homeload").remove')
+[ERROR - 2021-05-02T20:47:23.411Z] Session [96d1ab30-ab87-11eb-899c-f500e427cbc0] - page.onError - stack:
+  global code (https://phptravels.net/home:18)
+[ERROR - 2021-05-02T20:47:29.166Z] Session [96d1ab30-ab87-11eb-899c-f500e427cbc0] - page.onError - msg: ReferenceError: Can't find variable: fmt
+[ERROR - 2021-05-02T20:47:29.166Z] Session [96d1ab30-ab87-11eb-899c-f500e427cbc0] - page.onError - stack:
+  global code (https://phptravels.net/home:3226)
+[ERROR - 2021-05-02T20:47:29.168Z] Session [96d1ab30-ab87-11eb-899c-f500e427cbc0] - page.onError - msg: ReferenceError: Can't find variable: fmt
+[ERROR - 2021-05-02T20:47:29.169Z] Session [96d1ab30-ab87-11eb-899c-f500e427cbc0] - page.onError - stack:
+  global code (https://phptravels.net/home:3251)
+[ERROR - 2021-05-02T20:47:29.170Z] Session [96d1ab30-ab87-11eb-899c-f500e427cbc0] - page.onError - msg: ReferenceError: Can't find variable: fmt
+[ERROR - 2021-05-02T20:47:29.171Z] Session [96d1ab30-ab87-11eb-899c-f500e427cbc0] - page.onError - stack:
+  global code (https://phptravels.net/home:3276)
+[ERROR - 2021-05-02T20:47:37.185Z] Session [96d1ab30-ab87-11eb-899c-f500e427cbc0] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("homeload").remove')
+[ERROR - 2021-05-02T20:47:37.185Z] Session [96d1ab30-ab87-11eb-899c-f500e427cbc0] - page.onError - stack:
+  global code (https://phptravels.net/register:18)
+[ERROR - 2021-05-02T20:47:37.462Z] Session [96d1ab30-ab87-11eb-899c-f500e427cbc0] - page.onError - msg: ReferenceError: Can't find variable: google
+[ERROR - 2021-05-02T20:47:37.463Z] Session [96d1ab30-ab87-11eb-899c-f500e427cbc0] - page.onError - stack:
+  eval code (undefined:1)
+  eval (:0)
+[ERROR - 2021-05-02T20:47:37.475Z] Session [96d1ab30-ab87-11eb-899c-f500e427cbc0] - page.onError - msg: ReferenceError: Can't find variable: fmt
+[ERROR - 2021-05-02T20:47:37.476Z] Session [96d1ab30-ab87-11eb-899c-f500e427cbc0] - page.onError - stack:
+  global code (https://phptravels.net/register:753)
+[ERROR - 2021-05-02T20:47:37.477Z] Session [96d1ab30-ab87-11eb-899c-f500e427cbc0] - page.onError - msg: ReferenceError: Can't find variable: fmt
+[ERROR - 2021-05-02T20:47:37.477Z] Session [96d1ab30-ab87-11eb-899c-f500e427cbc0] - page.onError - stack:
+  global code (https://phptravels.net/register:778)
+[ERROR - 2021-05-02T20:47:37.478Z] Session [96d1ab30-ab87-11eb-899c-f500e427cbc0] - page.onError - msg: ReferenceError: Can't find variable: fmt
+[ERROR - 2021-05-02T20:47:37.478Z] Session [96d1ab30-ab87-11eb-899c-f500e427cbc0] - page.onError - stack:
+  global code (https://phptravels.net/register:803)
+[ERROR - 2021-05-02T20:47:37.487Z] Session [96d1ab30-ab87-11eb-899c-f500e427cbc0] - page.onError - msg: ReferenceError: Can't find variable: google
+[ERROR - 2021-05-02T20:47:37.487Z] Session [96d1ab30-ab87-11eb-899c-f500e427cbc0] - page.onError - stack:
+  initialize (https://phptravels.net/themes/default/assets/js/custom-detail-map.js:8)
+  (anonymous function) (https://phptravels.net/themes/default/assets/js/custom-detail-map.js:85)
+  i (https://phptravels.net/themes/default/assets/js/jquery-2.2.4.min.js:2)
+  fireWith (https://phptravels.net/themes/default/assets/js/jquery-2.2.4.min.js:2)
+  ready (https://phptravels.net/themes/default/assets/js/jquery-2.2.4.min.js:2)
+  J (https://phptravels.net/themes/default/assets/js/jquery-2.2.4.min.js:2)
+[ERROR - 2021-05-02T20:47:40.107Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619988460046
+[ERROR - 2021-05-02T20:47:41.814Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619988461761
+[ERROR - 2021-05-02T20:47:43.317Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619988463266
+[ERROR - 2021-05-02T20:47:44.714Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619988464712
+[ERROR - 2021-05-02T20:47:46.170Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619988466122
+[ERROR - 2021-05-02T20:47:47.626Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619988467572
+[ERROR - 2021-05-02T20:47:49.107Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619988469074
+[INFO  - 2021-05-02T20:47:49.895Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2021-05-02T20:49:07.222Z] GhostDriver - Main - running on port 45786
+[INFO  - 2021-05-02T20:49:07.759Z] Session [d6caed50-ab87-11eb-ba82-37883ebe7123] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2021-05-02T20:49:07.759Z] Session [d6caed50-ab87-11eb-ba82-37883ebe7123] - page.customHeaders:  - {}
+[INFO  - 2021-05-02T20:49:07.762Z] Session [d6caed50-ab87-11eb-ba82-37883ebe7123] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2021-05-02T20:49:07.762Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: d6caed50-ab87-11eb-ba82-37883ebe7123
+[ERROR - 2021-05-02T20:49:10.636Z] Session [d6caed50-ab87-11eb-ba82-37883ebe7123] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("homeload").remove')
+[ERROR - 2021-05-02T20:49:10.637Z] Session [d6caed50-ab87-11eb-ba82-37883ebe7123] - page.onError - stack:
+  global code (https://phptravels.net/home:18)
+[ERROR - 2021-05-02T20:49:14.739Z] Session [d6caed50-ab87-11eb-ba82-37883ebe7123] - page.onError - msg: ReferenceError: Can't find variable: fmt
+[ERROR - 2021-05-02T20:49:14.740Z] Session [d6caed50-ab87-11eb-ba82-37883ebe7123] - page.onError - stack:
+  global code (https://phptravels.net/home:3226)
+[ERROR - 2021-05-02T20:49:14.741Z] Session [d6caed50-ab87-11eb-ba82-37883ebe7123] - page.onError - msg: ReferenceError: Can't find variable: fmt
+[ERROR - 2021-05-02T20:49:14.741Z] Session [d6caed50-ab87-11eb-ba82-37883ebe7123] - page.onError - stack:
+  global code (https://phptravels.net/home:3251)
+[ERROR - 2021-05-02T20:49:14.743Z] Session [d6caed50-ab87-11eb-ba82-37883ebe7123] - page.onError - msg: ReferenceError: Can't find variable: fmt
+[ERROR - 2021-05-02T20:49:14.743Z] Session [d6caed50-ab87-11eb-ba82-37883ebe7123] - page.onError - stack:
+  global code (https://phptravels.net/home:3276)
+[ERROR - 2021-05-02T20:49:21.391Z] Session [d6caed50-ab87-11eb-ba82-37883ebe7123] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("homeload").remove')
+[ERROR - 2021-05-02T20:49:21.392Z] Session [d6caed50-ab87-11eb-ba82-37883ebe7123] - page.onError - stack:
+  global code (https://phptravels.net/register:18)
+[ERROR - 2021-05-02T20:49:21.694Z] Session [d6caed50-ab87-11eb-ba82-37883ebe7123] - page.onError - msg: ReferenceError: Can't find variable: google
+[ERROR - 2021-05-02T20:49:21.694Z] Session [d6caed50-ab87-11eb-ba82-37883ebe7123] - page.onError - stack:
+  eval code (undefined:1)
+  eval (:0)
+[ERROR - 2021-05-02T20:49:21.713Z] Session [d6caed50-ab87-11eb-ba82-37883ebe7123] - page.onError - msg: ReferenceError: Can't find variable: fmt
+[ERROR - 2021-05-02T20:49:21.713Z] Session [d6caed50-ab87-11eb-ba82-37883ebe7123] - page.onError - stack:
+  global code (https://phptravels.net/register:753)
+[ERROR - 2021-05-02T20:49:21.715Z] Session [d6caed50-ab87-11eb-ba82-37883ebe7123] - page.onError - msg: ReferenceError: Can't find variable: fmt
+[ERROR - 2021-05-02T20:49:21.716Z] Session [d6caed50-ab87-11eb-ba82-37883ebe7123] - page.onError - stack:
+  global code (https://phptravels.net/register:778)
+[ERROR - 2021-05-02T20:49:21.717Z] Session [d6caed50-ab87-11eb-ba82-37883ebe7123] - page.onError - msg: ReferenceError: Can't find variable: fmt
+[ERROR - 2021-05-02T20:49:21.718Z] Session [d6caed50-ab87-11eb-ba82-37883ebe7123] - page.onError - stack:
+  global code (https://phptravels.net/register:803)
+[ERROR - 2021-05-02T20:49:21.725Z] Session [d6caed50-ab87-11eb-ba82-37883ebe7123] - page.onError - msg: ReferenceError: Can't find variable: google
+[ERROR - 2021-05-02T20:49:21.726Z] Session [d6caed50-ab87-11eb-ba82-37883ebe7123] - page.onError - stack:
+  initialize (https://phptravels.net/themes/default/assets/js/custom-detail-map.js:8)
+  (anonymous function) (https://phptravels.net/themes/default/assets/js/custom-detail-map.js:85)
+  i (https://phptravels.net/themes/default/assets/js/jquery-2.2.4.min.js:2)
+  fireWith (https://phptravels.net/themes/default/assets/js/jquery-2.2.4.min.js:2)
+  ready (https://phptravels.net/themes/default/assets/js/jquery-2.2.4.min.js:2)
+  J (https://phptravels.net/themes/default/assets/js/jquery-2.2.4.min.js:2)
+[ERROR - 2021-05-02T20:49:24.152Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619988564114
+[ERROR - 2021-05-02T20:49:25.340Z] Session [d6caed50-ab87-11eb-ba82-37883ebe7123] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("homeload").remove')
+[ERROR - 2021-05-02T20:49:25.341Z] Session [d6caed50-ab87-11eb-ba82-37883ebe7123] - page.onError - stack:
+  global code (https://phptravels.net/account/:18)
+[ERROR - 2021-05-02T20:49:26.327Z] Session [d6caed50-ab87-11eb-ba82-37883ebe7123] - page.onError - msg: ReferenceError: Can't find variable: google
+[ERROR - 2021-05-02T20:49:26.327Z] Session [d6caed50-ab87-11eb-ba82-37883ebe7123] - page.onError - stack:
+  eval code (undefined:1)
+  eval (:0)
+[ERROR - 2021-05-02T20:49:26.342Z] Session [d6caed50-ab87-11eb-ba82-37883ebe7123] - page.onError - msg: ReferenceError: Can't find variable: fmt
+[ERROR - 2021-05-02T20:49:26.342Z] Session [d6caed50-ab87-11eb-ba82-37883ebe7123] - page.onError - stack:
+  global code (https://phptravels.net/account/:1636)
+[ERROR - 2021-05-02T20:49:26.343Z] Session [d6caed50-ab87-11eb-ba82-37883ebe7123] - page.onError - msg: ReferenceError: Can't find variable: fmt
+[ERROR - 2021-05-02T20:49:26.343Z] Session [d6caed50-ab87-11eb-ba82-37883ebe7123] - page.onError - stack:
+  global code (https://phptravels.net/account/:1661)
+[ERROR - 2021-05-02T20:49:26.345Z] Session [d6caed50-ab87-11eb-ba82-37883ebe7123] - page.onError - msg: ReferenceError: Can't find variable: fmt
+[ERROR - 2021-05-02T20:49:26.345Z] Session [d6caed50-ab87-11eb-ba82-37883ebe7123] - page.onError - stack:
+  global code (https://phptravels.net/account/:1686)
+[ERROR - 2021-05-02T20:49:26.354Z] Session [d6caed50-ab87-11eb-ba82-37883ebe7123] - page.onError - msg: ReferenceError: Can't find variable: google
+[ERROR - 2021-05-02T20:49:26.354Z] Session [d6caed50-ab87-11eb-ba82-37883ebe7123] - page.onError - stack:
+  initialize (https://phptravels.net/themes/default/assets/js/custom-detail-map.js:8)
+  (anonymous function) (https://phptravels.net/themes/default/assets/js/custom-detail-map.js:85)
+  i (https://phptravels.net/themes/default/assets/js/jquery-2.2.4.min.js:2)
+  fireWith (https://phptravels.net/themes/default/assets/js/jquery-2.2.4.min.js:2)
+  ready (https://phptravels.net/themes/default/assets/js/jquery-2.2.4.min.js:2)
+  J (https://phptravels.net/themes/default/assets/js/jquery-2.2.4.min.js:2)
+[ERROR - 2021-05-02T20:49:26.658Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619988566600
+[INFO  - 2021-05-02T20:49:27.313Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2021-05-02T20:50:46.566Z] GhostDriver - Main - running on port 20113
+[INFO  - 2021-05-02T20:50:47.219Z] Session [12132a80-ab88-11eb-a9c2-2f561f7e588f] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2021-05-02T20:50:47.220Z] Session [12132a80-ab88-11eb-a9c2-2f561f7e588f] - page.customHeaders:  - {}
+[INFO  - 2021-05-02T20:50:47.220Z] Session [12132a80-ab88-11eb-a9c2-2f561f7e588f] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2021-05-02T20:50:47.220Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 12132a80-ab88-11eb-a9c2-2f561f7e588f
+[ERROR - 2021-05-02T20:50:50.323Z] Session [12132a80-ab88-11eb-a9c2-2f561f7e588f] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("homeload").remove')
+[ERROR - 2021-05-02T20:50:50.324Z] Session [12132a80-ab88-11eb-a9c2-2f561f7e588f] - page.onError - stack:
+  global code (https://phptravels.net/home:18)
+[ERROR - 2021-05-02T20:50:55.193Z] Session [12132a80-ab88-11eb-a9c2-2f561f7e588f] - page.onError - msg: ReferenceError: Can't find variable: fmt
+[ERROR - 2021-05-02T20:50:55.193Z] Session [12132a80-ab88-11eb-a9c2-2f561f7e588f] - page.onError - stack:
+  global code (https://phptravels.net/home:3226)
+[ERROR - 2021-05-02T20:50:55.195Z] Session [12132a80-ab88-11eb-a9c2-2f561f7e588f] - page.onError - msg: ReferenceError: Can't find variable: fmt
+[ERROR - 2021-05-02T20:50:55.195Z] Session [12132a80-ab88-11eb-a9c2-2f561f7e588f] - page.onError - stack:
+  global code (https://phptravels.net/home:3251)
+[ERROR - 2021-05-02T20:50:55.197Z] Session [12132a80-ab88-11eb-a9c2-2f561f7e588f] - page.onError - msg: ReferenceError: Can't find variable: fmt
+[ERROR - 2021-05-02T20:50:55.198Z] Session [12132a80-ab88-11eb-a9c2-2f561f7e588f] - page.onError - stack:
+  global code (https://phptravels.net/home:3276)
+[ERROR - 2021-05-02T20:51:05.585Z] Session [12132a80-ab88-11eb-a9c2-2f561f7e588f] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("homeload").remove')
+[ERROR - 2021-05-02T20:51:05.586Z] Session [12132a80-ab88-11eb-a9c2-2f561f7e588f] - page.onError - stack:
+  global code (https://phptravels.net/register:18)
+[ERROR - 2021-05-02T20:51:06.154Z] Session [12132a80-ab88-11eb-a9c2-2f561f7e588f] - page.onError - msg: ReferenceError: Can't find variable: google
+[ERROR - 2021-05-02T20:51:06.154Z] Session [12132a80-ab88-11eb-a9c2-2f561f7e588f] - page.onError - stack:
+  eval code (undefined:1)
+  eval (:0)
+[ERROR - 2021-05-02T20:51:06.163Z] Session [12132a80-ab88-11eb-a9c2-2f561f7e588f] - page.onError - msg: ReferenceError: Can't find variable: fmt
+[ERROR - 2021-05-02T20:51:06.164Z] Session [12132a80-ab88-11eb-a9c2-2f561f7e588f] - page.onError - stack:
+  global code (https://phptravels.net/register:753)
+[ERROR - 2021-05-02T20:51:06.165Z] Session [12132a80-ab88-11eb-a9c2-2f561f7e588f] - page.onError - msg: ReferenceError: Can't find variable: fmt
+[ERROR - 2021-05-02T20:51:06.165Z] Session [12132a80-ab88-11eb-a9c2-2f561f7e588f] - page.onError - stack:
+  global code (https://phptravels.net/register:778)
+[ERROR - 2021-05-02T20:51:06.166Z] Session [12132a80-ab88-11eb-a9c2-2f561f7e588f] - page.onError - msg: ReferenceError: Can't find variable: fmt
+[ERROR - 2021-05-02T20:51:06.166Z] Session [12132a80-ab88-11eb-a9c2-2f561f7e588f] - page.onError - stack:
+  global code (https://phptravels.net/register:803)
+[ERROR - 2021-05-02T20:51:06.176Z] Session [12132a80-ab88-11eb-a9c2-2f561f7e588f] - page.onError - msg: ReferenceError: Can't find variable: google
+[ERROR - 2021-05-02T20:51:06.176Z] Session [12132a80-ab88-11eb-a9c2-2f561f7e588f] - page.onError - stack:
+  initialize (https://phptravels.net/themes/default/assets/js/custom-detail-map.js:8)
+  (anonymous function) (https://phptravels.net/themes/default/assets/js/custom-detail-map.js:85)
+  i (https://phptravels.net/themes/default/assets/js/jquery-2.2.4.min.js:2)
+  fireWith (https://phptravels.net/themes/default/assets/js/jquery-2.2.4.min.js:2)
+  ready (https://phptravels.net/themes/default/assets/js/jquery-2.2.4.min.js:2)
+  J (https://phptravels.net/themes/default/assets/js/jquery-2.2.4.min.js:2)
+[ERROR - 2021-05-02T20:51:10.431Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619988670421
+[ERROR - 2021-05-02T20:51:12.236Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619988672190
+[ERROR - 2021-05-02T20:51:13.710Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619988673654
+[ERROR - 2021-05-02T20:51:15.201Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619988675145
+[ERROR - 2021-05-02T20:51:16.616Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619988676588
+[ERROR - 2021-05-02T20:51:18.091Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619988678035
+[ERROR - 2021-05-02T20:51:19.574Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619988679539
+[INFO  - 2021-05-02T20:51:20.346Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2021-05-02T20:52:03.667Z] GhostDriver - Main - running on port 26274
+[INFO  - 2021-05-02T20:52:04.221Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2021-05-02T20:52:04.221Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.customHeaders:  - {}
+[INFO  - 2021-05-02T20:52:04.222Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2021-05-02T20:52:04.223Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 3ff8bd20-ab88-11eb-8953-8d68e65ec2f5
+[ERROR - 2021-05-02T20:52:07.310Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("homeload").remove')
+[ERROR - 2021-05-02T20:52:07.310Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - stack:
+  global code (https://phptravels.net/home:18)
+[ERROR - 2021-05-02T20:52:11.651Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - msg: ReferenceError: Can't find variable: fmt
+[ERROR - 2021-05-02T20:52:11.652Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - stack:
+  global code (https://phptravels.net/home:3226)
+[ERROR - 2021-05-02T20:52:11.653Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - msg: ReferenceError: Can't find variable: fmt
+[ERROR - 2021-05-02T20:52:11.653Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - stack:
+  global code (https://phptravels.net/home:3251)
+[ERROR - 2021-05-02T20:52:11.655Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - msg: ReferenceError: Can't find variable: fmt
+[ERROR - 2021-05-02T20:52:11.656Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - stack:
+  global code (https://phptravels.net/home:3276)
+[ERROR - 2021-05-02T20:52:21.501Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("homeload").remove')
+[ERROR - 2021-05-02T20:52:21.502Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - stack:
+  global code (https://phptravels.net/register:18)
+[ERROR - 2021-05-02T20:52:21.783Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - msg: ReferenceError: Can't find variable: google
+[ERROR - 2021-05-02T20:52:21.784Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - stack:
+  eval code (undefined:1)
+  eval (:0)
+[ERROR - 2021-05-02T20:52:21.795Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - msg: ReferenceError: Can't find variable: fmt
+[ERROR - 2021-05-02T20:52:21.796Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - stack:
+  global code (https://phptravels.net/register:753)
+[ERROR - 2021-05-02T20:52:21.796Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - msg: ReferenceError: Can't find variable: fmt
+[ERROR - 2021-05-02T20:52:21.797Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - stack:
+  global code (https://phptravels.net/register:778)
+[ERROR - 2021-05-02T20:52:21.798Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - msg: ReferenceError: Can't find variable: fmt
+[ERROR - 2021-05-02T20:52:21.798Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - stack:
+  global code (https://phptravels.net/register:803)
+[ERROR - 2021-05-02T20:52:21.809Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - msg: ReferenceError: Can't find variable: google
+[ERROR - 2021-05-02T20:52:21.810Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - stack:
+  initialize (https://phptravels.net/themes/default/assets/js/custom-detail-map.js:8)
+  (anonymous function) (https://phptravels.net/themes/default/assets/js/custom-detail-map.js:85)
+  i (https://phptravels.net/themes/default/assets/js/jquery-2.2.4.min.js:2)
+  fireWith (https://phptravels.net/themes/default/assets/js/jquery-2.2.4.min.js:2)
+  ready (https://phptravels.net/themes/default/assets/js/jquery-2.2.4.min.js:2)
+  J (https://phptravels.net/themes/default/assets/js/jquery-2.2.4.min.js:2)
+[ERROR - 2021-05-02T20:52:24.630Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619988744581
+[ERROR - 2021-05-02T20:52:26.031Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("homeload").remove')
+[ERROR - 2021-05-02T20:52:26.032Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - stack:
+  global code (https://phptravels.net/account/:18)
+[ERROR - 2021-05-02T20:52:26.296Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619988746279
+[ERROR - 2021-05-02T20:52:27.203Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - msg: ReferenceError: Can't find variable: google
+[ERROR - 2021-05-02T20:52:27.216Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - stack:
+  eval code (undefined:1)
+  eval (:0)
+[ERROR - 2021-05-02T20:52:27.226Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - msg: ReferenceError: Can't find variable: fmt
+[ERROR - 2021-05-02T20:52:27.227Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - stack:
+  global code (https://phptravels.net/account/:1636)
+[ERROR - 2021-05-02T20:52:27.227Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - msg: ReferenceError: Can't find variable: fmt
+[ERROR - 2021-05-02T20:52:27.228Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - stack:
+  global code (https://phptravels.net/account/:1661)
+[ERROR - 2021-05-02T20:52:27.228Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - msg: ReferenceError: Can't find variable: fmt
+[ERROR - 2021-05-02T20:52:27.229Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - stack:
+  global code (https://phptravels.net/account/:1686)
+[ERROR - 2021-05-02T20:52:27.236Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - msg: ReferenceError: Can't find variable: google
+[ERROR - 2021-05-02T20:52:27.237Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - stack:
+  initialize (https://phptravels.net/themes/default/assets/js/custom-detail-map.js:8)
+  (anonymous function) (https://phptravels.net/themes/default/assets/js/custom-detail-map.js:85)
+  i (https://phptravels.net/themes/default/assets/js/jquery-2.2.4.min.js:2)
+  fireWith (https://phptravels.net/themes/default/assets/js/jquery-2.2.4.min.js:2)
+  ready (https://phptravels.net/themes/default/assets/js/jquery-2.2.4.min.js:2)
+  J (https://phptravels.net/themes/default/assets/js/jquery-2.2.4.min.js:2)
+[ERROR - 2021-05-02T20:52:27.930Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("homeload").remove')
+[ERROR - 2021-05-02T20:52:27.931Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - stack:
+  global code (https://phptravels.net/login:18)
+[ERROR - 2021-05-02T20:52:28.051Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - msg: ReferenceError: Can't find variable: google
+[ERROR - 2021-05-02T20:52:28.051Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - stack:
+  eval code (undefined:1)
+  eval (:0)
+[ERROR - 2021-05-02T20:52:28.059Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - msg: ReferenceError: Can't find variable: fmt
+[ERROR - 2021-05-02T20:52:28.060Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - stack:
+  global code (https://phptravels.net/login:764)
+[ERROR - 2021-05-02T20:52:28.060Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - msg: ReferenceError: Can't find variable: fmt
+[ERROR - 2021-05-02T20:52:28.061Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - stack:
+  global code (https://phptravels.net/login:789)
+[ERROR - 2021-05-02T20:52:28.061Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - msg: ReferenceError: Can't find variable: fmt
+[ERROR - 2021-05-02T20:52:28.062Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - stack:
+  global code (https://phptravels.net/login:814)
+[ERROR - 2021-05-02T20:52:28.071Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - msg: ReferenceError: Can't find variable: google
+[ERROR - 2021-05-02T20:52:28.071Z] Session [3ff8bd20-ab88-11eb-8953-8d68e65ec2f5] - page.onError - stack:
+  initialize (https://phptravels.net/themes/default/assets/js/custom-detail-map.js:8)
+  (anonymous function) (https://phptravels.net/themes/default/assets/js/custom-detail-map.js:85)
+  i (https://phptravels.net/themes/default/assets/js/jquery-2.2.4.min.js:2)
+  fireWith (https://phptravels.net/themes/default/assets/js/jquery-2.2.4.min.js:2)
+  ready (https://phptravels.net/themes/default/assets/js/jquery-2.2.4.min.js:2)
+  J (https://phptravels.net/themes/default/assets/js/jquery-2.2.4.min.js:2)
+[INFO  - 2021-05-02T20:52:29.966Z] ShutdownReqHand - _handle - About to shutdown
