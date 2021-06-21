@@ -1,0 +1,129 @@
+[INFO ] 2021-06-19 23:26:03.918 [TestNG-tests-1] base_tests.base_tests.BaseTests - Can not instantiate a driver instance
+[INFO ] 2021-06-20 00:07:41.168 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 00:07:43.028 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 00:13:51.198 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 00:13:52.332 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 00:15:03.088 [main] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 00:15:03.936 [main] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 00:17:04.653 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 00:17:05.689 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 00:17:14.746 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 00:17:15.386 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 00:17:32.955 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 00:17:34.161 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 00:18:23.604 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 00:18:24.532 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 00:18:32.350 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 00:18:33.074 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 00:18:48.417 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 00:18:49.127 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 01:00:02.508 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 01:00:03.740 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 01:00:12.973 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 01:00:13.617 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 01:00:31.431 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 01:00:32.874 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 02:48:15.053 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 02:48:15.979 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 02:48:26.211 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 02:48:27.244 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 02:48:41.365 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 02:48:42.136 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 04:33:14.621 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 04:33:15.631 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 04:33:25.570 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 04:33:26.262 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 04:33:44.234 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 04:33:45.151 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 13:33:31.555 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 13:33:32.938 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 13:33:48.753 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 13:33:49.809 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 13:34:12.461 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 13:34:14.841 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 13:35:23.840 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 13:35:24.972 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 13:35:35.110 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 13:35:36.255 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 13:35:59.191 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 13:36:00.357 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 13:36:57.875 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 13:36:58.946 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 13:37:07.241 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 13:37:08.368 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 13:37:23.833 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 13:37:26.053 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 13:52:15.771 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 13:52:16.747 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 13:52:25.725 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 13:52:26.408 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 13:52:42.507 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 13:52:45.135 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 15:58:39.453 [TestNG-tests-2] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 15:58:40.930 [TestNG-tests-2] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 15:58:52.531 [TestNG-tests-3] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 15:58:55.054 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 15:58:59.018 [TestNG-tests-3] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 15:59:00.982 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 16:03:35.770 [TestNG-tests-2] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 16:03:37.526 [TestNG-tests-2] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 16:03:49.751 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 16:03:52.140 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 16:08:41.638 [TestNG-tests-3] base_tests.base_tests.BaseTests - Can not instantiate a driver instance
+[INFO ] 2021-06-20 16:13:21.061 [TestNG-tests-2] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 16:13:22.833 [TestNG-tests-2] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 16:13:33.484 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 16:13:35.000 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 16:18:20.546 [TestNG-tests-3] base_tests.base_tests.BaseTests - Can not instantiate a driver instance
+[INFO ] 2021-06-20 16:21:25.467 [TestNG-tests-3] base_tests.base_tests.BaseTests - Can not instantiate a driver instance
+[INFO ] 2021-06-20 16:21:28.544 [TestNG-tests-2] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 16:21:30.052 [TestNG-tests-2] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 16:21:38.338 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 16:21:39.963 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 16:22:24.189 [TestNG-tests-3] base_tests.base_tests.BaseTests - Can not instantiate a driver instance
+[INFO ] 2021-06-20 16:22:28.890 [TestNG-tests-2] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 16:22:30.671 [TestNG-tests-2] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 16:22:40.502 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 16:22:42.066 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 16:23:26.158 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 16:23:27.210 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 16:23:35.385 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 16:23:36.079 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 16:23:48.171 [TestNG-tests-1] base_tests.base_tests.BaseTests - Can not instantiate a driver instance
+[INFO ] 2021-06-20 16:25:41.080 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 16:25:42.053 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 16:25:50.834 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 16:25:51.773 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 16:31:06.206 [TestNG-tests-1] base_tests.base_tests.BaseTests - Can not instantiate a driver instance
+[INFO ] 2021-06-20 16:44:38.535 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 16:44:40.659 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 16:46:25.851 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 16:46:26.890 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 16:46:35.888 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 16:46:36.569 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 16:46:52.571 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 16:46:54.758 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 16:49:42.436 [TestNG-tests-2] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 16:49:43.992 [TestNG-tests-2] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 16:49:52.404 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 16:49:53.935 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 16:50:08.831 [TestNG-tests-1] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 16:50:10.958 [TestNG-tests-1] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 16:50:16.646 [TestNG-tests-2] base_tests.base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 16:50:20.600 [TestNG-tests-2] base_tests.base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 16:57:17.762 [TestNG-tests-1] base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 16:57:18.684 [TestNG-tests-1] base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 16:57:27.904 [TestNG-tests-1] base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 16:57:28.887 [TestNG-tests-1] base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 16:57:45.842 [TestNG-tests-1] base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 16:57:48.030 [TestNG-tests-1] base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 16:58:42.558 [TestNG-tests-1] base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 16:58:44.144 [TestNG-tests-1] base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 18:29:18.078 [TestNG-tests-1] base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 18:29:19.872 [TestNG-tests-1] base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 18:29:34.340 [TestNG-tests-1] base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 18:29:35.459 [TestNG-tests-1] base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 18:29:55.765 [TestNG-tests-1] base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 18:29:57.946 [TestNG-tests-1] base_tests.BaseTests - Start from home page for each testcase
+[INFO ] 2021-06-20 18:31:11.230 [TestNG-tests-1] base_tests.BaseTests - Open a new browser instance
+[INFO ] 2021-06-20 18:31:14.283 [TestNG-tests-1] base_tests.BaseTests - Start from home page for each testcase
